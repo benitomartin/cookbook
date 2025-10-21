@@ -83,13 +83,13 @@ Written for Android (Kotlin) and iOS (Swift), the goal of the Edge SDK is to mak
 
 | Platform | Example |  |
 |-------|-----------|---------------|
-| Android | LeapChat: A simple chat-style app allowing the users to chat with the model | [▶️ Go to the code](https://github.com/Liquid4All/LeapSDK-Examples/tree/main/Android/LeapChat) |
+| **Android** | LeapChat: A simple chat-style app allowing the users to chat with the model | [▶️ Go to the code](https://github.com/Liquid4All/LeapSDK-Examples/tree/main/Android/LeapChat) |
 |  | SloganApp: Single turn generation for marketing. The UI is implemented with Android Views.| [▶️ Go to the code](https://github.com/Liquid4All/LeapSDK-Examples/tree/main/Android/SloganApp) |
 |  | ShareAI: Website summary generator | [▶️ Go to the code](https://github.com/Liquid4All/LeapSDK-Examples/tree/main/Android/ShareAI) |
 |  | Recipe Generator: Structured output generation with the LEAP SDK | [▶️ Go to the code](https://github.com/Liquid4All/LeapSDK-Examples/tree/main/Android/RecipeGenerator) |
 |  | Visual Language Model example | [▶️ Go to the code](https://github.com/Liquid4All/LeapSDK-Examples/tree/main/Android/VLMExample) |
 ||||
-| iOS | LeapChat: A comprehensive chat application demonstrating advanced LeapSDK features including real-time streaming, conversation management, and modern UI components. | [▶️ Go to the code ](https://github.com/Liquid4All/LeapSDK-Examples/tree/main/iOS/LeapChatExample) |
+| **iOS** | LeapChat: A comprehensive chat application demonstrating advanced LeapSDK features including real-time streaming, conversation management, and modern UI components. | [▶️ Go to the code ](https://github.com/Liquid4All/LeapSDK-Examples/tree/main/iOS/LeapChatExample) |
 |  | LeapSloganExample: A simple SwiftUI app demonstrating basic LeapSDK integration for text generation.| [▶️ Go to the code](https://github.com/Liquid4All/LeapSDK-Examples/tree/main/iOS/LeapChatExample) |
 |  | Recipe Generator: Structured output generation | [▶️ Go to the code](https://github.com/Liquid4All/LeapSDK-Examples/tree/main/iOS/RecipeGenerator) |
 |  | Audio demo: A SwiftUI app demonstrating audio input and output with the LeapSDK for on-device AI inference. | [▶️ Go to the code](https://github.com/Liquid4All/LeapSDK-Examples/tree/main/iOS/LeapAudioDemo) |
@@ -100,16 +100,19 @@ Written for Android (Kotlin) and iOS (Swift), the goal of the Edge SDK is to mak
 
 Complete end-to-end tutorials that take you from setup to deployment.
 
-- [Super fast and accurate image classification on edge devices](https://github.com/Paulescu/image-classification-with-local-vlms) ![GitHub Repo stars](https://img.shields.io/github/stars/Paulescu/image-classification-with-local-vlms)
-- [Let's build a Chess game using small and local Large Language Models](https://github.com/Paulescu/chess-game) ![GitHub Repo stars](https://img.shields.io/github/stars/Paulescu/chess-game)
+| Tutorial | Repository |
+|----------|------------|
+| Super fast and accurate image classification on edge devices | [▶️ Go to the repo](https://github.com/Paulescu/image-classification-with-local-vlms) ![GitHub Repo stars](https://img.shields.io/github/stars/Paulescu/image-classification-with-local-vlms) |
+| Let's build a Chess game using small and local Large Language Models | [▶️ Go to the repo](https://github.com/Paulescu/chess-game) ![GitHub Repo stars](https://img.shields.io/github/stars/Paulescu/chess-game) |
 
 
 ## Examples built by our community
 
 Working applications that demonstrate Liquid models in action.
 
-- [TranslatorLens: Building An Offline Translation Camera
-](https://github.com/linmx0130/TranslatorLens)![GitHub Repo stars](https://img.shields.io/github/stars/linmx0130/TranslatorLens)
+| Project | Repository |
+|---------|------------|
+| TranslatorLens: Building An Offline Translation Camera | [▶️ Go to the repo](https://github.com/linmx0130/TranslatorLens) ![GitHub Repo stars](https://img.shields.io/github/stars/linmx0130/TranslatorLens) |
 
 
 <!-- Detailed documentation for working with Liquid models:
